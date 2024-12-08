@@ -20,9 +20,9 @@ class EstudiantesTable:
 
 tabla = EstudiantesTable()
 
-tabla.insertar_estudiante("Ana", 22, "Bogotá")
-tabla.insertar_estudiante("Luis", 19, "Medellín")
-tabla.insertar_estudiante("Camila", 23, "Bogotá")
+tabla.insertar_estudiante("Juliana", 21, "Medellín")
+tabla.insertar_estudiante("Alejadro", 19, "Medellín")
+tabla.insertar_estudiante("Camila", 24, "Bogotá")
 tabla.insertar_estudiante("Pedro", 20, "Cali")
 tabla.insertar_estudiante("Carlitos", 18, "Medellín")
 tabla.insertar_estudiante("Diana", 23, "Cali")
